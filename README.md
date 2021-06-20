@@ -1,2 +1,2 @@
 # GSM-GPS-CLOUD-PROJECT
-GPS project
+GPS project with GSM MODULE
